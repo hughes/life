@@ -1,25 +1,25 @@
 @hughes's life
 
-- 1986/10/16 Born
+- 16/10/1986 Born
 - ~1987 Moved to Quesnel
-- 1988/07/01 Laura born
+- 0/07/1988 Laura born
 - ~1993 Moved to Coldstream BC
 - ~1993-1999 Kidston Elementary School
-- 1999/09-2004/06 Kalamalka Secondary School
-- 2004/06 Graduated from high school
+- 09/1999-06/2004 Kalamalka Secondary School
+- 06/2004 Graduated from high school
 - ~2003 Emily (dog) brought home!
-- 2004/09 Moved to Toronto ON
-- 2004/09-2009/05 York University, Space Engineering
-- 2005/05-2005-06 Hebei University, Baoding, China
-- 2006/05-2006/08 Lived in Calgary, AB
-- 2006/05-2006/08 Worked at Tim Hortons in Canmore, AB
-- 2009/05 Graduated B.A.Sc from York University
-- 2009/05-2011/08 Lived at 23-365 Murray Ross with Jake, Courtney, Patrick
-- 2009/09-~2011/02 Masters program at York
-- ~2010/09 Dated Joshua
-- ~2010/10-2011/07 Dated Johann
-- ~2011/02 Dropped out of masters program at York
-- ~2011/05-~2012/02 Bitcoin mining operation
-- 2011/08/27-~ Dated Erin
-- 2011/08-~ Worked at Top Hat
-- 2012/05-~ Lived at 236 Wiltshire Ave with Erin
+- 09/2004 Moved to Toronto ON
+- 09/2004-05/2009 York University, Space Engineering
+- 05/2005-06/2005 Hebei University, Baoding, China
+- 05/2006-08/2006 Lived in Calgary, AB
+- 06/2006-08/2006 Worked at Tim Hortons in Canmore, AB
+- 05/2009 Graduated B.A.Sc from York University
+- 05/2009-08/2011 Lived at 23-365 Murray Ross with Jake, Courtney, Patrick
+- 09/2009-~02/2011 Masters program at York
+- ~09/2010 Dated Joshua
+- ~10/2010-07/2011 Dated Johann
+- ~02/2011 Dropped out of masters program at York
+- ~05/2011-~02/2012 Bitcoin mining operation
+- 27/08/2011-~ Dated Erin
+- 08/2011-~ Worked at Top Hat
+- 05/2012-~ Lived at 236 Wiltshire Ave with Erin
