@@ -19,7 +19,7 @@
 - 09/2010 Dated Joshua
 - 10/2010-07/2011 Dated Johann
 - 02/2011 Dropped out of masters program at York
-- 05/2011-~02/2012 Bitcoin mining operation
+- 05/2011-02/2012 Bitcoin mining operation
 - 27/08/2011-~ Dated Erin
 - 08/2011-~ Worked at Top Hat
 - 05/2012-~ Lived at 236 Wiltshire Ave with Erin
