@@ -16,10 +16,10 @@
 - 05/2009 Graduated B.A.Sc from York University
 - 05/2009-08/2011 Lived at 23-365 Murray Ross with Jake, Courtney, Patrick
 - 09/2009-~02/2011 Masters program at York
-- ~09/2010 Dated Joshua
-- ~10/2010-07/2011 Dated Johann
-- ~02/2011 Dropped out of masters program at York
-- ~05/2011-~02/2012 Bitcoin mining operation
+- 09/2010 Dated Joshua
+- 10/2010-07/2011 Dated Johann
+- 02/2011 Dropped out of masters program at York
+- 05/2011-~02/2012 Bitcoin mining operation
 - 27/08/2011-~ Dated Erin
 - 08/2011-~ Worked at Top Hat
 - 05/2012-~ Lived at 236 Wiltshire Ave with Erin
